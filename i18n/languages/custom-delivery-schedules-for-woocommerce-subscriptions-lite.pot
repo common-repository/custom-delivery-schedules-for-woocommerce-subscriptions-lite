@@ -1,0 +1,809 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Custom Delivery Schedules for WooCommerce Subscriptions\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Flycart\n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: advanced/templates/admin/product_shipping_option.php:41
+msgid "Synchronise Delivery Schedules"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:46
+#: includes/fcsc-helper.php:258
+msgid "January"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:47
+#: includes/fcsc-helper.php:261
+msgid "February"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:48
+#: includes/fcsc-helper.php:264
+msgid "March"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:49
+#: includes/fcsc-helper.php:267
+msgid "April"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:50
+#: includes/fcsc-helper.php:270
+msgid "May"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:51
+#: includes/fcsc-helper.php:273
+msgid "June"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:52
+#: includes/fcsc-helper.php:276
+msgid "July"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:53
+#: includes/fcsc-helper.php:279
+msgid "August"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:54
+#: includes/fcsc-helper.php:282
+msgid "September"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:55
+#: includes/fcsc-helper.php:285
+msgid "October"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:56
+#: includes/fcsc-helper.php:288
+msgid "November"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:57
+#: includes/fcsc-helper.php:291
+msgid "December"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:62
+msgid "Add Additional Cost to the Subscription"
+msgstr ""
+
+#: advanced/templates/admin/product_shipping_option.php:66
+msgid "Label for the Additional Cost"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:6
+msgid "Display the delivery schedules as:"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:6
+msgid "Display delivery schedules option in front end"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:13
+msgid "Radio"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:14
+msgid "Dropdown List"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:20
+msgid "Display Additional Cost in Product Page"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:28 templates/admin/settings.php:45
+msgid "yes"
+msgstr ""
+
+#: advanced/templates/admin/settings.php:32 templates/admin/settings.php:49
+msgid "No"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:748
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:764
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:300
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:771
+msgid "Search for a customer&hellip;"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:775
+msgid "Start date"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:777
+msgid "End date"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:780
+msgid "Search"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-abstract-list-table.php:781
+msgid "Search by subscription ID"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:101
+msgid "Delivery Schedules"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:104
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:108
+msgid "Subscription ID"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:109
+msgid "Customer"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:110
+#: templates/emails/email-order-details.php:44
+#: templates/order/order-details.php:40
+msgid "Product"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:112
+msgid "Delivery Status"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:113
+msgid "Scheduled Date"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:114
+msgid "Log"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:134
+msgid "Claim ID"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:141
+msgid "Run"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:142
+msgid "Process the action now as if it were run as part of a queue"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:145
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:146
+msgid "Cancel the action now to avoid it being run in future"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:206
+msgid "Now!"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:239
+#: includes/fcsc-helper.php:235
+#, php-format
+msgid "Every %s"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:243
+#, php-format
+msgid "Cron %s"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:247
+msgid "Non-repeating"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:416
+#, php-format
+msgid ""
+"Maximum simultaneous batches already in progress (%s queues). No actions "
+"will be processed until the current batches are complete."
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:431
+#, php-format
+msgid "Successfully executed action: %s"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:434
+#, php-format
+msgid "Successfully canceled action: %s"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:437
+#, php-format
+msgid "Successfully processed change for action: %s"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:442
+#, php-format
+msgid "Could not process change for action: \"%s\" (ID: %d). Error: %s"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:487
+#, php-format
+msgid " (%s ago)"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:489
+#: includes/admin/subscription-page.php:134
+#, php-format
+msgid " (%s)"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:646
+msgid "Upcoming"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:647
+msgid "Completed"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:648
+msgid "In-progress"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:649
+msgid "Failed"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:650
+msgid "Canceled"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:802
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/action-scheduler/action-scheduler-list-table.php:830
+msgid "Invalid schedule. Cannot save action."
+msgstr ""
+
+#: includes/admin/admin-notices.php:38
+msgid ""
+"<strong>Custom Delivery Schedules for WooCommerce Subscriptions is inactive. "
+"</strong> The WooCommerce plugin must be active and folder name should be "
+"<b>woocommerce</b> for Custom Delivery Schedules to work. Please do a check."
+msgstr ""
+
+#: includes/admin/admin-notices.php:48
+msgid ""
+"<strong>Custom Delivery Schedules for WooCommerce Subscriptions is inactive. "
+"</strong> The WooCommerce Subscriptions plugin must be active and folder "
+"name should be <b>woocommerce-subscriptions</b> for Custom Delivery "
+"Schedules to work. Please do a check."
+msgstr ""
+
+#: includes/admin/admin-notices.php:58
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/admin/admin-page.php:57
+msgid "Delivery schedules"
+msgstr ""
+
+#: includes/admin/admin-page.php:58 loader.php:133 loader.php:176
+#: templates/admin/settings.php:4
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/settings.php:36
+msgid "Save failed. Please try again."
+msgstr ""
+
+#: includes/admin/settings.php:39
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/subscription-page.php:62 includes/fcsc-cart.php:148
+#: includes/fcsc-cart.php:177
+msgid "Delivery schedule"
+msgstr ""
+
+#: includes/admin/subscription-page.php:69
+#: includes/admin/subscription-page.php:99
+msgid "Last delivery date"
+msgstr ""
+
+#: includes/admin/subscription-page.php:73
+#: includes/admin/subscription-page.php:100
+msgid "Next delivery date"
+msgstr ""
+
+#: includes/admin/subscription-page.php:77
+msgid "More info"
+msgstr ""
+
+#: includes/admin/subscription-page.php:83
+msgid "This subscription doesn't contains delivery schedules"
+msgstr ""
+
+#: includes/admin/subscription-page.php:120
+#, php-format
+msgid " (%s) ago"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:21
+msgid "Scheduled Delivery notification for customer"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:22
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:22
+msgid "This email is received when an subscription delivery order is created."
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:23
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:23
+msgid "Delivery notification"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:24
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:24
+msgid ""
+"[{site_title}] Delivery notification for (Subscription {order_number}) - "
+"{subscription_product_name}"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:115
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:116
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:117
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:118
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:121
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:128
+msgid "Subject"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:123
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:130
+#, php-format
+msgid ""
+"This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:128
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:135
+msgid "Email Heading"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:130
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:137
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:135
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:142
+msgid "Email type"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:137
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:144
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:141
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:148
+msgid "Plain text"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:142
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:149
+msgid "HTML"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order-for-customer.php:143
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:150
+msgid "Multipart"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:21
+msgid "Scheduled Delivery notification for admin"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:122
+msgid "Recipient"
+msgstr ""
+
+#: includes/emails/fcsc-email-created-prepaid-shipping-order.php:124
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to %s"
+msgstr ""
+
+#: includes/fcsc-cart.php:48
+msgid "Subscription delivery fee: "
+msgstr ""
+
+#: includes/fcsc-helper.php:148
+msgid "Day"
+msgstr ""
+
+#: includes/fcsc-helper.php:149
+msgid "Week"
+msgstr ""
+
+#: includes/fcsc-helper.php:150
+msgid "Month"
+msgstr ""
+
+#: includes/fcsc-helper.php:151
+msgid "Year"
+msgstr ""
+
+#: includes/fcsc-helper.php:152
+msgid "every"
+msgstr ""
+
+#: includes/fcsc-helper.php:153
+msgid "st"
+msgstr ""
+
+#: includes/fcsc-helper.php:154
+msgid "nd"
+msgstr ""
+
+#: includes/fcsc-helper.php:155
+msgid "rd"
+msgstr ""
+
+#: includes/fcsc-helper.php:156
+msgid "th"
+msgstr ""
+
+#: includes/fcsc-helper.php:157
+msgid "Monday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:158
+msgid "Tuesday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:159
+msgid "Wednesday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:160
+msgid "Thursday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:161
+msgid "Friday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:162
+msgid "Saturday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:163
+msgid "Sunday each week"
+msgstr ""
+
+#: includes/fcsc-helper.php:164
+msgid "day of the month"
+msgstr ""
+
+#: includes/fcsc-helper.php:178
+msgid "subscription delivery fee"
+msgstr ""
+
+#: includes/fcsc-helper.php:180 includes/fcsc-helper.php:182
+#, php-format
+msgid "%s as %s"
+msgstr ""
+
+#: includes/fcsc-helper.php:194
+msgid "day"
+msgstr ""
+
+#: includes/fcsc-helper.php:196
+msgid "week"
+msgstr ""
+
+#: includes/fcsc-helper.php:198
+msgid "month"
+msgstr ""
+
+#: includes/fcsc-helper.php:200
+msgid "year"
+msgstr ""
+
+#: includes/fcsc-helper.php:216 includes/fcsc-helper.php:219
+#, php-format
+msgid "On %s of "
+msgstr ""
+
+#: includes/fcsc-helper.php:227
+#, php-format
+msgid "On %s %s of "
+msgstr ""
+
+#: includes/fcsc-helper.php:232
+#, php-format
+msgid "Every %s %s"
+msgstr ""
+
+#: includes/fcsc-helper.php:237
+#, php-format
+msgid "%s every %s"
+msgstr ""
+
+#: includes/fcsc-helper.php:242
+#, php-format
+msgid "%s every %s %s"
+msgstr ""
+
+#: includes/fcsc-helper.php:308
+msgid "Monday"
+msgstr ""
+
+#: includes/fcsc-helper.php:311
+msgid "Tuesday"
+msgstr ""
+
+#: includes/fcsc-helper.php:314
+msgid "Wednesday"
+msgstr ""
+
+#: includes/fcsc-helper.php:317
+msgid "Thursday"
+msgstr ""
+
+#: includes/fcsc-helper.php:320
+msgid "Friday"
+msgstr ""
+
+#: includes/fcsc-helper.php:323
+msgid "Saturday"
+msgstr ""
+
+#: includes/fcsc-helper.php:326
+msgid "Sunday"
+msgstr ""
+
+#: includes/fcsc-helper.php:357
+#, php-format
+msgid "%sst"
+msgstr ""
+
+#: includes/fcsc-helper.php:359
+#, php-format
+msgid "%snd"
+msgstr ""
+
+#: includes/fcsc-helper.php:361
+#, php-format
+msgid "%srd"
+msgstr ""
+
+#: includes/fcsc-helper.php:363
+#, php-format
+msgid "%sth"
+msgstr ""
+
+#: includes/fcsc-product.php:68
+msgid "Read more"
+msgstr ""
+
+#: includes/fcsc-purchase.php:32 templates/admin/product_shipping.php:25
+msgid "Custom Delivery Schedules"
+msgstr ""
+
+#: includes/fcsc-purchase.php:34
+msgid "Custom Delivery Schedules Lite"
+msgstr ""
+
+#: includes/fcsc-shipping.php:39
+msgid "Processing order for delivery"
+msgstr ""
+
+#: includes/fcsc-shipping.php:77
+#, php-format
+msgid "Error: Unable to create delivery order with note \"%s\""
+msgstr ""
+
+#: includes/fcsc-shipping.php:84
+#, php-format
+msgid "Order %s created to record shipping."
+msgstr ""
+
+#: includes/fcsc-subscription.php:187
+msgid "Subscription shipping"
+msgstr ""
+
+#: loader.php:128
+msgid "Custom Delivery Schedules for WooCommerce Subscriptions installed"
+msgstr ""
+
+#: loader.php:130
+msgid ""
+" - Make sure to activate your copy of the plugin to receive updates, support "
+"and security fixes!"
+msgstr ""
+
+#: loader.php:135
+msgid "Dismiss this notice."
+msgstr ""
+
+#: templates/admin/product_shipping.php:29
+msgid "Enable Custom Delivery Schedules"
+msgstr ""
+
+#: templates/admin/product_shipping.php:36
+msgid "Hide Single Delivery Schedule in Store Front"
+msgstr ""
+
+#: templates/admin/product_shipping.php:37
+msgid "Choose if this product is used only with custom delivery schedules"
+msgstr ""
+
+#: templates/admin/product_shipping.php:60
+msgid "Add option"
+msgstr ""
+
+#: templates/admin/product_shipping_option.php:28
+msgid "Drag and Change Position"
+msgstr ""
+
+#: templates/admin/product_shipping_option.php:29
+msgid "Remove"
+msgstr ""
+
+#: templates/admin/product_shipping_option.php:35
+msgid "Delivery Interval"
+msgstr ""
+
+#: templates/admin/settings.php:7
+msgid "General options"
+msgstr ""
+
+#: templates/admin/settings.php:15
+msgid "Licence key"
+msgstr ""
+
+#: templates/admin/settings.php:17
+msgid "Enter licence key to get auto update"
+msgstr ""
+
+#: templates/admin/settings.php:33
+msgid "Display delivery option block in Product Page."
+msgstr ""
+
+#: templates/admin/settings.php:35
+msgid ""
+"Display delivery option block in Product Page. (This is applicable for the "
+"products which contains only one delivery option)"
+msgstr ""
+
+#: templates/admin/settings.php:37
+msgid "Display delivery option block in Product Page"
+msgstr ""
+
+#: templates/admin/settings.php:55
+msgid "Schedule option title"
+msgstr ""
+
+#: templates/admin/settings.php:55
+msgid ""
+"Title for delivery schedules option in front end. Leave it as empty for no "
+"title"
+msgstr ""
+
+#: templates/admin/settings.php:61
+msgid "Delivery on"
+msgstr ""
+
+#: templates/admin/settings.php:72
+msgid "Save changes"
+msgstr ""
+
+#: templates/emails/created-pre-paid-shipping-email-for-admin.php:31
+#, php-format
+msgid ""
+"This is a delivery notice for the subscription #%1$s for the product - %2$s. "
+"Their order details are as follows:"
+msgstr ""
+
+#: templates/emails/created-pre-paid-shipping-email-for-customer.php:31
+#, php-format
+msgid ""
+"This is a delivery notice for your subscription product - %1$s. The order "
+"details are as follows:"
+msgstr ""
+
+#: templates/emails/email-order-details.php:36
+#, php-format
+msgid "[Order #%s]"
+msgstr ""
+
+#: templates/emails/email-order-details.php:45
+msgid "Quantity"
+msgstr ""
+
+#: templates/emails/email-order-details.php:46
+msgid "Price"
+msgstr ""
+
+#: templates/emails/email-order-items.php:73 templates/myaccount/orders.php:60
+#: templates/myaccount/related-orders.php:64
+#: templates/order/order-details-item.php:45
+msgid "Pre-paid"
+msgstr ""
+
+#: templates/myaccount/orders.php:90
+msgid "Previous"
+msgstr ""
+
+#: templates/myaccount/orders.php:94
+msgid "Next"
+msgstr ""
+
+#: templates/myaccount/orders.php:102
+msgid "Go shop"
+msgstr ""
+
+#: templates/myaccount/orders.php:104
+msgid "No order has been made yet."
+msgstr ""
+
+#: templates/myaccount/related-orders.php:21
+msgid "Related Orders"
+msgstr ""
+
+#: templates/myaccount/related-orders.php:28
+msgid "Order"
+msgstr ""
+
+#: templates/myaccount/related-orders.php:29
+#: templates/myaccount/related-orders.php:53
+msgid "Date"
+msgstr ""
+
+#: templates/myaccount/related-orders.php:30
+#: templates/myaccount/related-orders.php:56
+msgid "Status"
+msgstr ""
+
+#: templates/myaccount/related-orders.php:48
+msgid "Order Number"
+msgstr ""
+
+#: templates/order/order-details.php:34
+msgid "Delivery details"
+msgstr ""
+
+#: templates/order/order-details.php:41
+msgid "Total"
+msgstr ""
+
+#: templates/product-shipping-options.php:60
+msgid "Choose Delivery Schedule"
+msgstr ""

@@ -1,0 +1,23 @@
+/**
+ * Custom Delivery Schedules for WooCommerce Subscriptions
+ *
+ * @version     1.0.0
+ */
+.fcds_wcs_delivery_cycle_block_list_con{
+    padding: 0 0 10px 0;
+}
+.fcds_wcs_additional_delivery_options{
+    margin: 5px 0;
+    display: none;
+    padding-left: 0;
+}
+.fcds_wcs_additional_delivery_options.radio{
+    display: block;
+    padding-left: 20px;
+}
+.fcds_wcs_radio-label{
+    cursor: pointer;
+}
+.fcds_wcs_delivery_cycle_con{
+    margin-bottom: 15px;
+}

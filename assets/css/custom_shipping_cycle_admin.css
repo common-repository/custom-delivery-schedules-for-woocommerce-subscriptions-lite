@@ -1,0 +1,71 @@
+/**
+ * Custom Delivery Schedules for WooCommerce Subscriptions
+ *
+ * @version     1.0.0
+ */
+
+.flycart_csc_wcs_fields_con{
+    margin: 10px;
+    background: #fafafa;
+    padding: 10px;
+}
+.flycart_csc_wcs_shipping_options_checkbox p > label{
+    width: auto;
+}
+.fcsc_wcs_shipping_options_block_btn {
+    text-align: right;
+    margin-top: 10px;
+}
+.flycart_csc_wcs_field_block_drag.button{
+    cursor: move;
+}
+.flycart_csc_wcs_field_block p input{
+    border: 1px solid #ddd;
+}
+.flycart_csc_wcs_field_block > p > input.fcsc_wcs_shipping_sync_year{
+    width: 100px;
+}
+.flycart_csc_wcs_shipping_options_con .options_group {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #eee;
+}
+.flycart_csc_wcs_shipping_options_con .options_group:last-child {
+    border-bottom: 0;
+}
+.fcsc_wcs_shipping_search_con #plugin-search-input{
+    float: none;
+}
+.fcsc_wcs_shipping_search_con select{
+    width: 200px;
+}
+.fcsc-meta-con .fcsc-meta-fields{
+    margin: 10px 0;
+}
+span.fcsc-status-label{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #dddddd;
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: bold;
+}
+span.fcsc-status-label.complete{
+    background-color: #5cb85c;
+}
+span.fcsc-status-label.pending{
+    background-color: #5bc0de;
+}
+span.fcsc-status-label.canceled{
+    background-color: #f0ad4e;
+}
+span.fcsc-status-label.failed{
+    background-color: #d9534f;
+}
+.fcscfwcs-notice-a.notice-dismiss{
+    text-decoration: none;
+}
+span.fcds-version-text{
+    display: inline-block;
+    padding: 8px;
+    font-size: 10px;
+}
